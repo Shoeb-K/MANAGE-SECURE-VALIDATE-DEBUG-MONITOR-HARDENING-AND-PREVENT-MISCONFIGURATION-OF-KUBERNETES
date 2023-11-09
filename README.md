@@ -1,4 +1,4 @@
-# Kubernetes Security Checklist
+# MANAGE, SECURE, VALIDATE, DEBUG, MONITOR, HARDENING AND PREVENT MISCONFIGURATION OF KUBERNETES
 
 ![Kubernetes Security](./img/kubernetes-security.png)
 
